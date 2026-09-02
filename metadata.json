@@ -1,0 +1,7 @@
+{
+  "name": "Java College Project & Management System",
+  "description": "Comprehensive Java College Management System with interactive ERP simulator, complete compilable Java source codes (Swing/JDBC/OOP), virtual JVM console runner, UML diagrams, Viva-Voce prep, and academic project report generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
